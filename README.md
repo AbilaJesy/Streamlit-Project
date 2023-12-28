@@ -1,5 +1,7 @@
 # Streamlit-Project
 
+## Salary Predicter Application
+
  Install Streamlit
 
 ```
